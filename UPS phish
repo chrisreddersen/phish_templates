@@ -1,0 +1,75 @@
+<table align="center" ne="0.7652646342995002" style="width: 650px; background-color: rgb(35, 67, 52); font-family: Arial, Helvetica, sans-serif; color: rgb(207, 194, 175); font-size: 10pt;">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td ne="0.44791402227709964" style="background-color: rgb(31, 108, 122);"><img alt="UPS" src="https://www.ups.com/img/en/email_header_blue.gif" style="border-width:0px;border-style:solid;width: 550px;height: 72px;" width="550" /></td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td bgcolor="#FFFFFF" style="background-color: rgb(28, 28, 33);" valign="top">
+						<p><br />
+						<br />
+						***Do not reply to this e-mail. UPS will not receive your reply.</p>
+
+						<p><b>Important Delivery Information</b></p>
+
+						<hr width="100%" />
+						<p>&nbsp;</p>
+
+						<table border="1">
+							<tbody>
+								<tr>
+									<td><b>Delivery Status:</b></td>
+									<td>Could not deliver package due to invalid information.</td>
+								</tr>
+								<tr>
+									<td><b>Fix Errors: </b></td>
+									<td><a href="[[URL]]"><x-sei title="Hover over the link. Link does not take you to the site the email content says it will.">CLICK HERE</x-sei></a></td>
+								</tr>
+								<tr>
+									<td colspan="2"><x-sei title="Prompts you to complete request to gain something of value.">Please click the above link to correct the errors and we will attempt to re-deliver your package</x-sei></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<p><b>Driver Release Location:</b> COULD NOT DELIVER</p>
+
+						<p><b><big>Shipment Detail</big></b></p>
+
+						<hr width="100%" />
+						<p>&nbsp;</p>
+
+						<table border="0">
+							<tbody>
+								<tr>
+									<td><b>Number of Packages</b></td>
+									<td>1</td>
+								</tr>
+								<tr>
+									<td><b>UPS Service:</b></td>
+									<td>1 DAY EXPRESS - URGENT</td>
+								</tr>
+								<tr>
+									<td><b>Weight:</b></td>
+									<td>2.6 LBS</td>
+								</tr>
+							</tbody>
+						</table>
+						&nbsp;
+
+						<hr width="100%" /></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<x-sei id="sei-footer"></x-sei>
